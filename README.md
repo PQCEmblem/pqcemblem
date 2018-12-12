@@ -23,7 +23,7 @@ EMBLEM and R.EMBLEM is a post-quantum cryptographic algorithm based on (Ring) Le
 - Supports IND-CCA secure key encapsulation mechanism.
 - Support for Linux OS using GNU GCC.     
 - Includes Known Answer Tests (KATs).
-- `Additional_Implementation` is an implementation of EMBLEM and R_EMBLEM using the compressed private key. 
+- `Additional_Implementation` is an implementation of EMBLEM and R.EMBLEM using the compressed private key. 
 
 
 ## Implementation
